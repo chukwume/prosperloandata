@@ -4,7 +4,10 @@
 
 ## Dataset
 
-> Provide basic information about your dataset in this section. If you selected your own dataset, make sure you note the source of your data and summarize any data wrangling steps that you performed before you started your exploration.
+> The Dataset contains 113,917 loans, each loan has information on each borrower's annual percentage rate (APR), status, borrowed amount, debt, etc. Variables that were not used in the exploration and variables with missing values were dropped to make the Dataset more accurate. Outliers were also removed to provide more reliable Data. This investigation will be analyzing factors that could influence borrower's APR.
+
+> The dataset can be download here: https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv&sa=D&ust=1547358770029000
+
 
 
 ## Summary of Findings
