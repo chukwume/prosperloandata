@@ -1,5 +1,5 @@
 # Prosper Loan Data Exploration
-## by (your name here)
+## by Chukwume Ijeh
 
 
 ## Dataset
