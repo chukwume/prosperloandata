@@ -30,4 +30,4 @@
 
 ## Key Insights for Presentation
 
-> For the presentation, I will be focusing on features that could affect the borrower APR, which are Loan Original Amount, Prosper Rating (Alpha), Prosper Score, if borrower is a homeowner or not and Employment status.
+> For the presentation, I will be focusing on features that could affect the borrower APR, which are Loan Original Amount, Prosper Rating (Alpha), Prosper Score and if borrower is a homeowner or not.
