@@ -30,4 +30,4 @@
 
 ## Key Insights for Presentation
 
-> Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
+> For the presentation, I will be focusing on features that could affect the borrower APR, which are Loan Original Amount, Prosper Rating (Alpha), Prosper Score, if borrower is a homeowner or not and Employment status.
